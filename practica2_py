@@ -1,0 +1,38 @@
+# flujoBasico
+  # Práctica 1 - Flujo Básico de git y github
+   en este momento realize una carpeta
+   con mi nombre clone mi repositorio y luego abri mi codigo.
+   
+1. #¿Qué es una Base De Datos Relacional?
+2. Una base de datos no relacional es aquella que guarda datos de un usuario ,los
+3. puede guardar en archivos o otras formas como las tablas tambien organiza la informacion
+4. y la categoria de esta.
+5.
+6. #¿Qué es una Tabla en el contexto Base De Datos Relacionales?
+7. Es aquella donde se categoriza la informacion en una tabla con filas y columnas.
+8.
+9. #¿Qué es una relación en el contexto de Base De Datos Relacionales?
+10. Es como un tipo conexion entre la informacion y datos de difentes tablas.
+11.
+12. #¿Qué representa una columna en el contexto de Base De Datos Relacionales?
+13. Una columna vendria siendo aquella que tiene lo mas importante de los datos.
+14.
+15. #¿Qué representa un renglón en el contexto de Base De Datos Relacionales?
+16. Pues yo digo que es como un tipo de clave o algo asi.
+17.
+18. #¿Qué es un motor de base de datos relacional?
+19. Es aquel que organiza todo asi como la informacion
+20.
+21. #¿Cuáles son los motores de bases de datos relacionales mas populares?
+22. Mysql tambien maria db ,sqlite y otros mas.
+23.
+24. #¿Cuál es el motor de base datos ligero que no necesita un servidor?
+25. Sqlite es ligero y el que es autonomo y no depende de un servidor
+26. para poder funcionar.
+27.
+28. #¿Qué significa SQL en el contexto de base datos relacionales?
+29. tiene un significado de que es un lenguaje de consulta estructurada.
+30.
+31. #¿Cuáles son los elementos de un sistema de ia información basado en base de datos relacionales?
+32. Un tipo de sistema que utiliza las tablas y que en esta se guardan datos y organiza dentro de
+33. sus filas y columnas.
